@@ -22,7 +22,7 @@ Abra o index.html no navegador para testar a aplicação.
 ```
 ---
 
-## Funcionalidades
+## ✨ Funcionalidades
 ✅ Criação de classes e objetos  
 ✅ Métodos personalizados  
 ✅ Encapsulamento da lógica  
@@ -30,7 +30,7 @@ Abra o index.html no navegador para testar a aplicação.
 
 ---
 
-## Aprendizados
+## 🧠 Aprendizados
 
 ✅ Sintaxe moderna de classes (`class`, `constructor`)  
 ✅ Criação e manipulação de instâncias  
